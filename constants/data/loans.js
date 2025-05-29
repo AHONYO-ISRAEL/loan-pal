@@ -1,0 +1,93 @@
+export const loans = [
+    {
+        "id": "loan_001",
+        "contactId": "contact_001",
+        "amount": 100000,
+        "currency": "XOF",
+        "issuedAt": "2025-04-15T10:00:00Z",
+        "dueDate": "2025-07-15T23:59:59Z",
+        "interestRate": 5.0,
+        "status": "active",
+        "repaymentProgress": 0.5,
+        "notes": "Repayment every 15th.",
+        "productType": "Personal Loan"
+    },
+    {
+        "id": "loan_002",
+        "contactId": "contact_002",
+        "amount": 200000,
+        "currency": "XOF",
+        "issuedAt": "2025-01-20T09:00:00Z",
+        "dueDate": "2025-06-20T23:59:59Z",
+        "interestRate": 4.0,
+        "status": "repaid",
+        "repaymentProgress": 1.0,
+        "notes": "Fully repaid before term.",
+        "productType": "Business Microcredit"
+    },
+    {
+        "id": "loan_003",
+        "contactId": "contact_003",
+        "amount": 150000,
+        "currency": "XOF",
+        "issuedAt": "2025-03-10T14:00:00Z",
+        "dueDate": "2025-07-10T23:59:59Z",
+        "interestRate": 6.5,
+        "status": "overdue",
+        "repaymentProgress": 0.6,
+        "notes": "Missed May installment.",
+        "productType": "Livelihood Support"
+    },
+    {
+        "id": "loan_004",
+        "contactId": "contact_004",
+        "amount": 120000,
+        "currency": "XOF",
+        "issuedAt": "2025-02-05T11:30:00Z",
+        "dueDate": "2025-06-05T23:59:59Z",
+        "interestRate": 3.5,
+        "status": "active",
+        "repaymentProgress": 0.75,
+        "notes": "Auto debit active.",
+        "productType": "Mobile Business Loan"
+    },
+    {
+        "id": "loan_005",
+        "contactId": "contact_005",
+        "amount": 180000,
+        "currency": "XOF",
+        "issuedAt": "2025-04-01T08:30:00Z",
+        "dueDate": "2025-07-01T23:59:59Z",
+        "interestRate": 5.2,
+        "status": "active",
+        "repaymentProgress": 0.3,
+        "notes": "Client requested grace period.",
+        "productType": "Women's Empowerment Loan"
+    },
+    {
+        "id": "loan_006",
+        "contactId": "contact_006",
+        "amount": 220000,
+        "currency": "XOF",
+        "issuedAt": "2025-01-10T12:00:00Z",
+        "dueDate": "2025-06-10T23:59:59Z",
+        "interestRate": 4.8,
+        "status": "repaid",
+        "repaymentProgress": 1.0,
+        "notes": "Excellent repayment behavior.",
+        "productType": "Agricultural Credit"
+    },
+    {
+        "id": "loan_007",
+        "contactId": "contact_007",
+        "amount": 130000,
+        "currency": "XOF",
+        "issuedAt": "2025-03-01T13:45:00Z",
+        "dueDate": "2025-06-30T23:59:59Z",
+        "interestRate": 5.0,
+        "status": "active",
+        "repaymentProgress": 0.4,
+        "notes": "Next payment scheduled June 1st.",
+        "productType": "Health Emergency Loan"
+    }
+]
