@@ -1,54 +1,89 @@
-# Welcome to your Expo app 👋
+# LoanPal: Because Lending Money Shouldn't Be a Mystery! 💸
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Welcome to the **LoanPal** repository!
 
-## Get started
+Ever lent a friend a few bucks for that *"totally essential"* late-night pizza, only to have it vanish into the black hole of forgotten debts? Or maybe you're that generous soul constantly spotting family members, but tracking it all feels like herding cats?
 
-1. Install dependencies
+**Worry no more — LoanPal is here to save your day (and your relationships)!**
 
-   ```bash
-   npm install
-   ```
+This project marks my journey into the wonderful world of **React Native with Expo**, building a clean, user-friendly app to manage personal and group loans. Think of it as your financial memory — but way cooler and a lot less judgy than your bank. 😎
 
-2. Start the app
+---
 
-   ```bash
-    npx expo start
-   ```
+## 💡 What is LoanPal?
 
-In the output, you'll find options to open the app in a
+**LoanPal** is a mobile app designed to remove the awkwardness and confusion from personal lending. Whether it’s a quick spot to a friend or a shared group expense, LoanPal helps you:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- 💵 **Track who owes what**  
+- ⏳ **Set repayment terms**  
+- 🔔 **Get notified without the awkwardness**
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+No more “remember that time I paid for your…” conversations!
 
-## Get a fresh project
+---
 
-When you're ready, run:
+## ✨ Core Functionalities (The Nitty-Gritty, But Still Fun)
 
-```bash
-npm run reset-project
-```
+### 🏡 1. Home Sweet Home (Dashboard)
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Your personal command center! A clean overview of your lending life:
 
-## Learn more
+- **Total Due** – See how much you're owed at a glance  
+- **Global Reimbursements** – Perfect for tracking group loans  
+- **Statistics** – Reimbursement progress & overdue alerts  
+- **Recent Loans** – Stay on top of who's paid and who's pending
 
-To learn more about developing your project with Expo, look at the following resources:
+---
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+### 🤝 2. Your Lending Network (Contacts)
 
-## Join the community
+Keeping tabs on everyone you’ve lent money to (or borrowed from):
 
-Join our community of developers creating universal apps.
+- **View Contacts** – Your lending circle, cleanly listed  
+- **Contact Details** – Individual loan history & current status  
+- **Add New Contacts** – Expand your network (responsibly, of course)
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-# done-ish
-# done-ish
-# done-ish
-# loan-pal
+---
+
+### ⚙️ 3. Personal Touch (Profiles & Settings)
+
+Customize your experience and keep things secure:
+
+- **Profile Management** – Keep your info fresh  
+- **Security** – Biometric login & multi-factor authentication  
+- **Transfer Methods** – Configure how you send/receive money
+
+---
+
+## 🚀 What’s Next? (Coming Soon)
+
+We’re just getting started! The frontend is under construction with **React Native + Expo**. Here's what’s on the roadmap:
+
+- ✅ **Loan Creation & Management** – Record new loans, set terms, track payments  
+- 🧾 **Collective Loans** – Group tracking for shared expenses  
+- 🔔 **Notifications** – Friendly reminders for due/overdue payments  
+- 📊 **Analytics & Reports** – Dive deeper into your lending habits  
+- 🎥 **Fun GIFs & Visuals** – Because tracking money should *actually* be fun!
+
+---
+
+## 🤝 Contributing (If You're Feeling Generous Like LoanPal)
+
+Have an idea? Found a bug? Want to make LoanPal the best loan-tracking app out there?
+ **Have a recommendation or feature request?**  
+Feel free to reach out via email: **[israelahonyo@gmail.com](mailto:israelahonyo@gmail.com)**
+
+---
+
+## 🛠 Built With
+
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+
+---
+![profiles](https://github.com/user-attachments/assets/8fc05667-98cb-4a23-9de5-99c17e892981)
+![home](https://github.com/user-attachments/assets/e796e523-3f40-4ca4-8fa0-43afc5af1830)
+![contacts](https://github.com/user-attachments/assets/30577b4a-041b-4279-92b2-84a3d2cfdce4)
+
+> Let’s make lending and borrowing transparent, stress-free, and maybe even a little bit funny.  
+> Let’s keep lending honest — and maybe even enjoyable.
