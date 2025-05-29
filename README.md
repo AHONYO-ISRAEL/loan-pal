@@ -81,9 +81,13 @@ Feel free to reach out via email: **[israelahonyo@gmail.com](mailto:israelahonyo
 - [Expo](https://expo.dev/)
 
 ---
-![profiles](https://github.com/user-attachments/assets/8fc05667-98cb-4a23-9de5-99c17e892981)
-![home](https://github.com/user-attachments/assets/e796e523-3f40-4ca4-8fa0-43afc5af1830)
-![contacts](https://github.com/user-attachments/assets/30577b4a-041b-4279-92b2-84a3d2cfdce4)
+<div style="display: flex; gap: 70px;">
+  <img src="https://github.com/user-attachments/assets/5bc258aa-4113-4752-a70a-c59d26a24175" alt="profiles" width="400"/>
+  <img src="https://github.com/user-attachments/assets/4d7a73e4-9e85-41cc-8c07-68146fc79f29" alt="home" width="400"/>
+  <img src="https://github.com/user-attachments/assets/1fa9c3b1-61b7-4fcb-86f9-05880ed29519" alt="contacts" width="400"/>
+</div>
+
+
 
 > Let’s make lending and borrowing transparent, stress-free, and maybe even a little bit funny.  
 > Let’s keep lending honest — and maybe even enjoyable.
